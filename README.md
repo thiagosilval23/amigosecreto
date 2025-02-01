@@ -1,10 +1,13 @@
-<h1>Quem é o seu amigo Secreto?</h1>
+🎁 Quem é o seu Amigo Secreto?
+🔽 Sobre o Projeto 🔽
 
-🔽Descrição do Projeto🔽
+Este projeto marca um grande passo na minha jornada de aprendizado, onde consegui alcançar meus objetivos de forma autônoma, demonstrando dedicação e evolução ao longo do processo.
 
-Com a conclusão deste projeto, consegui atingir meus objetivos de forma autônoma, refletindo meu empenho e aprendizado ao longo de todo o processo. Esse é o primeiro challenge da turma G-8 ONE e Alura, foi realizado com as seguintes linguagens:
- * HTML5
- * CSS
- * JavaScript
-   
-O objetivo deste desafio é proporcionar ao usuário uma experiência interativa, permitindo-lhe acessar o site, inserir os nomes de seus amigos e, a partir dessas informações, receber o resultado de um sorteio de forma automatizada e eficiente.
+Desenvolvido como parte do primeiro challenge da turma G-8 ONE e Alura, o projeto foi criado utilizando as seguintes tecnologias:
+
+HTML5
+CSS
+JavaScript
+📌 Objetivo
+O desafio tem como propósito proporcionar uma experiência interativa ao usuário, permitindo que ele cadastre os nomes de seus amigos e realize um sorteio automatizado, garantindo um processo prático e eficiente.
+
